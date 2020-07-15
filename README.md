@@ -14,9 +14,9 @@
 
 Original source from (dataset)[http://insideairbnb.com/get-the-data.html]
 
-Get (Listing)[http://data.insideairbnb.com/mexico/df/mexico-city/2020-05-24/visualisations/listings.csv]
+Get (Listing)[http://data.insideairbnb.com/mexico/df/mexico-city/2020-05-24/data/listings.csv.gz]
 
-Get Airbnb (Reviews)[http://data.insideairbnb.com/mexico/df/mexico-city/2020-05-24/visualisations/reviews.csv]
+Get Airbnb (Reviews)[http://data.insideairbnb.com/mexico/df/mexico-city/2020-05-24/data/reviews.csv.gz]
 
 Get Mexico (Neighbourhoods)[http://data.insideairbnb.com/mexico/df/mexico-city/2020-05-24/visualisations/neighbourhoods.geojson]
 
