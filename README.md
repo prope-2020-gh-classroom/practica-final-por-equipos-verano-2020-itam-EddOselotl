@@ -7,6 +7,8 @@
 
 - Positive and negative reviews per neighbourhood.
 
+- Average room type price by neighbourhoods.
+
 - Mapping Airbnb location.
 
 
