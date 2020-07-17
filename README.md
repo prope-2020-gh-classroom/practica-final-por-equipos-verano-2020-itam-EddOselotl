@@ -25,5 +25,5 @@ Get Mexico [Neighbourhoods](http://data.insideairbnb.com/mexico/df/mexico-city/2
 |Name|User github|
 |:--:|:--:|
 |Edgar|[EddOselotl](https://github.com/EddOselotl)|
-|Geovanny|[carlosgeovanny](https://github.com/carlosgeovanny)|
+|Geovanny|[carlosgeovany](https://github.com/carlosgeovany)|
 |Caro| [CaroAcostaT](http://github.com/CaroAcostaT)|
