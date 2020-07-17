@@ -11,7 +11,7 @@
 
 - Mapping Airbnb location.
 
-### **Programing language used:**
+### **Programming language used:**
 
 Python
 
