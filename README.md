@@ -1,5 +1,10 @@
 # Data Analysis of Airbnb in Mexico City
 
+### **Introduction:**
+
+Airbnb is an online marketplace that connects people who want to rent out their homes with people who are looking for accommodations in that locale. It currently covers more than 81,000 cities and 191 countries worldwide. The company's name comes from “air mattress B&B.”
+
+For hosts, participating in Airbnb is a way to earn some income from their property, but with the risk that the guest might do damage to it. For guests, the advantage can be relatively inexpensive accommodations, but with the risk that the property won’t be as appealing as the listing made it seem.[Airbnb: Advantages and Disadvantages](https://www.investopedia.com/articles/personal-finance/032814/pros-and-cons-using-airbnb.asp)
 
 ### **Goals:**
 
