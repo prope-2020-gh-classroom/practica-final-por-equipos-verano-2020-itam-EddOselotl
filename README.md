@@ -37,3 +37,9 @@ Get Mexico [Neighbourhoods](http://data.insideairbnb.com/mexico/df/mexico-city/2
 |Edgar|[EddOselotl](https://github.com/EddOselotl)|
 |Geovanny|[carlosgeovany](https://github.com/carlosgeovany)|
 |Caro| [CaroAcostaT](http://github.com/CaroAcostaT)|
+
+### **Files presented**
+
+For the final file you can see we use a [jupyternotebook](https://github.com/prope-2020-gh-classroom/practica-final-por-equipos-verano-2020-itam-EddOselotl/blob/master/Practica_final_equipo_7.ipynb) and an [html](https://github.com/prope-2020-gh-classroom/practica-final-por-equipos-verano-2020-itam-EddOselotl/blob/master/Practica_final_equipo_7.html) version.
+
+The [html](https://github.com/prope-2020-gh-classroom/practica-final-por-equipos-verano-2020-itam-EddOselotl/blob/master/Practica_final_equipo_7.html) file was needed in order to see all maps generated with geopandas. 
